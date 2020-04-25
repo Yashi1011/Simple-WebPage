@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="/app.css">
+<h1>SIGN</h1>
+ 
+<p class="lead">Last joined person, <strong><%= name_db %></strong> 
+others on our waitlist.</p>
+ 
+<form method="POST" action='/register'>
+ <input type="text" name="name" class="form" placeholder="Enter Your Name">
+ <button>Join Now</button>
+</form>
