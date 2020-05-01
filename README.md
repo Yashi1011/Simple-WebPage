@@ -1,7 +1,7 @@
 # Simple-WebPage
----
-### It is a basic webpage.
 
+### It is a basic webpage.
+---
 ###### The page takes name from user and stores his/her details in database along with the time when he joined.
 
 The queries used to create database and table:
