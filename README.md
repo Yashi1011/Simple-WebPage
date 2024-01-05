@@ -25,5 +25,5 @@ CREATE TABLE list_names(
 + `faker` - To insert fake data to check.
 
 ### Faker
-Faker can be used to generate data. [Refer this](https://github.com/marak/Faker.js/) for more information.
+Faker can be used to generate data. [Refer this](https://fakerjs.dev/api/faker.html) for more information.
 * See `data.js` file to know how I generated fake data.
